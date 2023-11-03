@@ -2,7 +2,7 @@
 
 #### nord
 ![nord](docs/nord.png)
-#### nord_invertd
+#### nord_inverted
 ![nord_inverted](docs/nord_inverted.png)
 
 
